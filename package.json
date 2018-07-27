@@ -1,8 +1,8 @@
 {
-  "name": "wangyiyun-app",
+  "name": "singer",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "CaiJinyc <me@caijin.tech>",
+  "author": "CaiJinyc && Zou Pengcheng",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --host 0.0.0.0 --inline --progress --config build/webpack.dev.conf.js",
